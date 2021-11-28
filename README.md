@@ -27,22 +27,22 @@ Now you can check the app in your browser at http://localhost:3000/
 ### Home
 
 
-<div><img width="700" src="src/img/Home-Example.png"/></div><br>
+<div><img width="700" src="src/img/2021-11-28 (3).png"/></div><br>
 
-### Home
+### Home's view in Mobile
 
 
-<div><img width="700" src="src/img/Home-Example2.png"/></div><br>
+<div><img width="700" src="src/img/2021-11-28 (4).png"/></div><br>
 
 
 ### AddTodo
 
 
-<div><img width="700" src="src/img/AddTodo-Example.png"/></div><br>
+<div><img width="700" src="src/img/2021-11-28.png"/></div><br>
 
 
 ### TodoDetail
 
 
-<div><img width="700" src="src/img/TodoDetail-Example.png"/></div><br>
-# ToDo-List-App
+<div><img width="700" src="src/img/2021-11-28 (2).png"/></div><br>
+
